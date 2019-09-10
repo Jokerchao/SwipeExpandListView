@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:drawableStart="@mipmap/ic_launcher"
+        android:gravity="center_vertical"
+        android:textSize="20sp"
+        android:layout_marginLeft="30dp"
+        android:text="189邮箱安全评估报告"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:drawableLeft="@mipmap/ic_launcher" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawableStart="@android:drawable/arrow_down_float"
+    android:text="File 1"
+    android:textColor="#525252"
+    android:textSize="15sp"
+    android:gravity="left|center_vertical"
+    android:paddingLeft="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:drawableLeft="@android:drawable/arrow_down_float" />
